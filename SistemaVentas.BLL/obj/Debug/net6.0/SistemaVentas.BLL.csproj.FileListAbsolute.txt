@@ -1,0 +1,34 @@
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.deps.json
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.DAL.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.DAL.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.AssemblyReference.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.AssemblyInfoInputs.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.AssemblyInfo.cs
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.CopyComplete
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\refint\SistemaVentas.BLL.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\ref\SistemaVentas.BLL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.deps.json
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.DAL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.DAL.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.AssemblyReference.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.AssemblyInfoInputs.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.AssemblyInfo.cs
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.CopyComplete
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\refint\SistemaVentas.BLL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.BLL\obj\Debug\net6.0\ref\SistemaVentas.BLL.dll

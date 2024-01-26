@@ -1,0 +1,28 @@
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.deps.json
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.runtimeconfig.json
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.csproj.AssemblyReference.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.AssemblyInfoInputs.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.AssemblyInfo.cs
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\refint\SistemaVentas.Entidad.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.genruntimeconfig.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\ref\SistemaVentas.Entidad.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.deps.json
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.runtimeconfig.json
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\bin\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.csproj.AssemblyReference.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.AssemblyInfoInputs.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.AssemblyInfo.cs
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\refint\SistemaVentas.Entidad.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\SistemaVentas.Entidad.genruntimeconfig.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.Entidad\obj\Debug\net6.0\ref\SistemaVentas.Entidad.dll

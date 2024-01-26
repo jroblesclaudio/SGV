@@ -1,0 +1,38 @@
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.deps.json
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.BLL.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.DAL.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.DAL.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.AssemblyReference.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.AssemblyInfoInputs.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.AssemblyInfo.cs
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.CoreCompileInputs.cache
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.CopyComplete
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\refint\SistemaVentas.IOC.dll
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.pdb
+C:\Users\jotav\OneDrive\Documentos\CURSO C# .NET\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\ref\SistemaVentas.IOC.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.deps.json
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.IOC.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.BLL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.DAL.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.Entidad.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.DAL.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\bin\Debug\net6.0\SistemaVentas.Entidad.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.AssemblyReference.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.AssemblyInfoInputs.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.AssemblyInfo.cs
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.CoreCompileInputs.cache
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.csproj.CopyComplete
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\refint\SistemaVentas.IOC.dll
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\SistemaVentas.IOC.pdb
+C:\Users\jeand\OneDrive\Escritorio\SistemaVentas\SistemaVentas.IOC\obj\Debug\net6.0\ref\SistemaVentas.IOC.dll
